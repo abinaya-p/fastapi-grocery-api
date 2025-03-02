@@ -10,6 +10,6 @@ DELETE: Delete grocery items.
 
 ## Running the API:
 1. Install the required packages:
-   ```bash
-   pip install -r requirements.txt
+
+   #pip install -r requirements.txt
 
